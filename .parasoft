@@ -1,0 +1,18 @@
+#Wed Jan 29 13:56:12 PST 2025
+/Timer//com.parasoft.xtest.checkers.api.cpp.options.compiler.command.c.linux.x86=/usr/bin/cc
+/Timer//com.parasoft.xtest.checkers.api.cpp.options.compiler.command.c.win32.x86=/usr/bin/cc
+/Timer//com.parasoft.xtest.checkers.api.cpp.options.compiler.command.cpp.linux.x86=/usr/bin/c++
+/Timer//com.parasoft.xtest.checkers.api.cpp.options.compiler.command.cpp.win32.x86=/usr/bin/c++
+/Timer//com.parasoft.xtest.checkers.api.cpp.options.compiler.family.linux.x86=gcc_9-64
+/Timer//com.parasoft.xtest.checkers.api.cpp.options.compiler.family.win32.x86=gcc_9-64
+/Timer//com.parasoft.xtest.checkers.api.cpp.options.compiler.options.linux.x86=${cpptest\:original_options} -DPARASOFT_CPPTEST
+/Timer//com.parasoft.xtest.checkers.api.cpp.options.compiler.options.win32.x86=${cpptest\:original_options} -DPARASOFT_CPPTEST
+/Timer//com.parasoft.xtest.checkers.api.cpp.options.extractor.id=options_dir_extractor_id
+/Timer//com.parasoft.xtest.checkers.api.cpp.options.linker.command.linux.x86=/usr/bin/c++
+/Timer//com.parasoft.xtest.checkers.api.cpp.options.linker.command.win32.x86=/usr/bin/c++
+/Timer//com.parasoft.xtest.checkers.api.cpp.options.linker.options.linux.x86=${cpptest\:original_options}
+/Timer//com.parasoft.xtest.checkers.api.cpp.options.linker.options.win32.x86=${cpptest\:original_options}
+/Timer//com.parasoft.xtest.checkers.api.cpp.options.ode_options_dir=/home/parasoft360/cmake_training/examples/Timer/.build/Timer.bdf
+/Timer//com.parasoft.xtest.checkers.api.cpp.options.preference.store.version=1.1
+/Timer//com.parasoft.xtest.testcases.cpp.datasources.portable=true
+project.path=/Timer
